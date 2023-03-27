@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(153, 184, 212);
+}  
+img {
+    height:550px;
+    width:500px;
+}
+button {
+    font-size:35px;
+}
